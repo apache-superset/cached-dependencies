@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@actions/cache": "actions/cache#d29c1df198dd38ac88e0ae23a2881b99c2d20e68",
-    "@actions/core": "1.2.6",
+    "@actions/core": "^1.10.1",
     "@actions/exec": "1.0.4",
     "@actions/glob": "0.1.0",
     "@types/uuid": "7.0.4",
@@ -37,11 +37,11 @@
     "@zeit/ncc": "0.22.3",
     "eslint": "7.5.0",
     "eslint-plugin-jest": "23.20.0",
-    "jest": "26.1.0",
+    "jest": "^29.7.0",
     "js-yaml": "3.14.0",
     "prettier": "2.0.5",
     "prettier-plugin-packagejson": "2.2.5",
-    "ts-jest": "26.1.4",
-    "typescript": "4.0.3"
+    "ts-jest": "^29.2.4",
+    "typescript": "^5.5.4"
   }
 }
